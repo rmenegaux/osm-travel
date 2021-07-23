@@ -12,12 +12,14 @@ Installation
 - Install dependencies: osm-travel requires a working python installation, and the [pandas](https://pandas.pydata.org) library.
 
 - clone this repository
-
-    git clone https://github.com/rmenegaux/osm-travel.git
+```
+git clone https://github.com/rmenegaux/osm-travel.git
+```
     
 - enter the directory
-
-    cd osm-travel
+```
+cd osm-travel
+```
     
 Usage:
 ------
