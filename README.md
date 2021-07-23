@@ -9,11 +9,13 @@ Compute travel distances and durations using OpenStreetMaps API
 Installation
 ------------
 
-clone this repository
+- Install dependencies: osm-travel requires a working python installation, and the [pandas](https://pandas.pydata.org) library.
+
+- clone this repository
 
     git clone https://github.com/rmenegaux/osm-travel.git
     
-enter the directory
+- enter the directory
 
     cd osm-travel
     
